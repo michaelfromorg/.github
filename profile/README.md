@@ -14,7 +14,7 @@ I work at [Notion](https://notion.so/). I like building projects on top of it, t
 These ones are for importing data.
 
 - [letterboxd2notion](https://github.com/michaelfromorg/letterboxd2notion), a script to sync data from Letterboxd to Notion
-- [strava2notion](https://github.com/michaelfromorg/strava2notion), a script to sync from Strava data to notion
+- [strava2notion](https://github.com/michaelfromorg/strava2notion), a script to sync from Strava data to Notion
 - [goodreads2notion](https://github.com/michaelfromorg/goodreads2notion) (WIP), a script to sync data from Goodreads to Notion
 - [contacts2notion](https://github.com/michaelfromorg/contacts2notion) (WIP), a script to sync data from Google Contacts to Notion
 
